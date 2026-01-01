@@ -1,0 +1,25 @@
+Lofton-Realty-Dec-30-/components/agents/AgentProfile.tsx:                <img
+Lofton-Realty-Dec-30-/components/agents/AgentCard.tsx:          <img
+Lofton-Realty-Dec-30-/components/LocationsSection.tsx:                <img
+Lofton-Realty-Dec-30-/components/blog/BlogCard.tsx:        <img
+Lofton-Realty-Dec-30-/components/blog/BlogPost.tsx:            <img
+Lofton-Realty-Dec-30-/components/auth/LoginPage.tsx:                <img
+Lofton-Realty-Dec-30-/components/auth/SignupPage.tsx:                <img
+Lofton-Realty-Dec-30-/components/AboutPage.tsx:               <img
+Lofton-Realty-Dec-30-/components/AboutPage.tsx:                 <img
+Lofton-Realty-Dec-30-/components/SellerGuide.tsx:               <img
+Lofton-Realty-Dec-30-/components/admin/AdminPropertyForm.tsx:                         <img src={img} alt="" className="w-full h-full object-cover" />
+Lofton-Realty-Dec-30-/components/admin/AdminAgentList.tsx:                             <img src={agent.photo} alt="" className="w-full h-full object-cover" />
+Lofton-Realty-Dec-30-/components/admin/AdminDashboard.tsx:                              {p.images[0] && <img src={p.images[0]} className="w-full h-full object-cover" />}
+Lofton-Realty-Dec-30-/components/admin/AdminAgentForm.tsx:                 <img src={formData.photo} alt="Preview" className="w-full h-full object-cover" />
+Lofton-Realty-Dec-30-/components/admin/AdminClientList.tsx:                        <img src={p.images[0]} alt="" className="w-16 h-16 rounded-lg object-cover bg-gray-100" />
+Lofton-Realty-Dec-30-/components/admin/AdminBlogForm.tsx:             {formData.featuredImage && <img src={formData.featuredImage} className="w-full h-full object-cover" />}
+Lofton-Realty-Dec-30-/components/admin/AdminBlogForm.tsx:                   <img src={formData.featuredImage} className="w-full h-full object-cover" />
+Lofton-Realty-Dec-30-/components/admin/AdminOverview.tsx:                  <img src={p.images[0]} alt="" className="w-12 h-12 rounded-lg object-cover bg-gray-100" />
+Lofton-Realty-Dec-30-/components/admin/AdminBlogList.tsx:                             <img src={blog.featuredImage} alt="" className="w-full h-full object-cover" />
+Lofton-Realty-Dec-30-/components/PropertyCard.tsx:                 <img
+Lofton-Realty-Dec-30-/components/PropertyDetailPage.tsx:               <img
+Lofton-Realty-Dec-30-/components/PropertyDetailPage.tsx:                <img
+Lofton-Realty-Dec-30-/components/PropertyDetailPage.tsx:                        <img
+Lofton-Realty-Dec-30-/components/ContactPage.tsx:                    <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=200&q=80" alt="Jared Lofton" className="w-full h-full object-cover" />
+Lofton-Realty-Dec-30-/components/Hero.tsx:                <img
